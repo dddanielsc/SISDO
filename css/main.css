@@ -1,0 +1,25 @@
+
+/* 
+    Created on : 06/11/2014, 20:21:17
+    Author     : DanielSantos
+*/
+
+.fundo-base{
+    background-color: rgba(247, 255, 253, 0.28);
+}
+
+.div-centro{
+    position: absolute;
+    left: 25%;
+    top: 25%
+}
+
+.div-img{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 33%;
+}
+
+.div-menu-painel{
+    margin-left: 2%;
+}
